@@ -16,3 +16,8 @@ streamlit
 matplotlib
 seaborn
 joblib
+python-dotenv
+chardet
+openai
+
+google-genai
